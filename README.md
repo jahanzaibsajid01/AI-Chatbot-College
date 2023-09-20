@@ -4,8 +4,8 @@ This project is an AI-powered chatbot designed to assist college students and st
 The project file contains a python script (College main.py,Data.py,JSON file, and pkl file). The project file contains a python script (main.py, trainingData.py, JSON file, and pkl file). 
 You change the data by changing the given JSON file.
 Requirements:
-pip
-NumPy
-random
-nltk
-tensorflow
+1-pip
+2-NumPy
+3-random
+4-nltk
+5-tensorflow
